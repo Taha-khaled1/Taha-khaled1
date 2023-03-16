@@ -1,9 +1,9 @@
 <!-- Name and description -->
-# TAHA KHALED
-A passionate Flutter developer from Egypt
+<h1 align="center">Hi 👋, I'm TAHA KHALED</h1>
+<h3 align="center">A passionate Flutter developer from Egypt</h3>
 
 <!-- Picture -->
-<img align="right" height="300" width="350" src="https://user-images.githubusercontent.com/60719843/225590128-286be991-d1e0-48a3-afeb-172ba1a7601d.gif">
+<img align="right" height="350" width="400" src="https://user-images.githubusercontent.com/60719843/225593295-8c5b1821-ba03-4e18-afd6-686299f89f48.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=taha-khaled1&label=Profile%20views&color=0e75b6&style=flat" alt="taha-khaled1" /> </p>
 
