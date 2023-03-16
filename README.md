@@ -3,7 +3,7 @@
 A passionate Flutter developer from Egypt
 
 <!-- Picture -->
-<img align="right" height="200" src="https://user-images.githubusercontent.com/60719843/225590128-286be991-d1e0-48a3-afeb-172ba1a7601d.gif">
+<img align="right" height="300" width="350" src="https://user-images.githubusercontent.com/60719843/225590128-286be991-d1e0-48a3-afeb-172ba1a7601d.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=taha-khaled1&label=Profile%20views&color=0e75b6&style=flat" alt="taha-khaled1" /> </p>
 
