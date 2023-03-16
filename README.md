@@ -1,6 +1,4 @@
-<!-- Name and description -->
-<h1 align="center">Hi 👋, I'm TAHA KHALED</h1>
-<h3 align="center">A passionate Flutter developer from Egypt</h3>
+
 
 
 <p align="center">
