@@ -2,6 +2,13 @@
 <h1 align="center">Hi 👋, I'm TAHA KHALED</h1>
 <h3 align="center">A passionate Flutter developer from Egypt</h3>
 
+
+<p align="center">
+  <img src="https://github.com/matyo91/matyo91/raw/main/assets/github.gif" alt="Hi, I'm TAHA KHALED 👋 I'm a 🚀 Flutter developer 🚀 I ❤️ Happy Hardcore ❤️">
+</p>
+
+
+
 <!-- Picture -->
 <img align="right" height="350" width="400" src="https://user-images.githubusercontent.com/60719843/225593295-8c5b1821-ba03-4e18-afd6-686299f89f48.gif">
 
