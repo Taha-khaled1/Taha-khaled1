@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Flutter developer from Egypt</h3>
 
 <div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="https://user-images.githubusercontent.com/60719843/225588958-82244c43-67c7-4475-b2c7-a0d134512fb9.gif">
+<img hight="200" width="700" alt="GIF" align="center" src="https://user-images.githubusercontent.com/60719843/225588958-82244c43-67c7-4475-b2c7-a0d134512fb9.gif">
 </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=taha-khaled1&label=Profile%20views&color=0e75b6&style=flat" alt="taha-khaled1" /> </p>
