@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm TAHA KHALED</h1>
 <h3 align="center">A passionate Flutter developer from Egypt</h3>
 
+<div align="center">
+<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/208593.gif">
+</div>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=taha-khaled1&label=Profile%20views&color=0e75b6&style=flat" alt="taha-khaled1" /> </p>
 
 - 🔭 I’m currently working on [Ecommerce-Multi-Vendor-Application](https://github.com/Taha-khaled1/Ecommerce_Multi-Vendor-Application)
