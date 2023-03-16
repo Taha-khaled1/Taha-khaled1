@@ -19,7 +19,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/taha-khaled-ba7090251/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/taha-khaled-ba7090251/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/taha-khaled-ba7090251" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="taha-khaled-ba7090251" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/taha_khaled132" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="taha_khaled132" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/tahakhaled" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tahakhaled" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/https://assets10.lottiefiles.com/packages/lf20_tfb3estd.json" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://assets10.lottiefiles.com/packages/lf20_tfb3estd.json" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
