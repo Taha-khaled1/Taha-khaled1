@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [taha.com](taha.com)
 
-- 📝 I regularly write articles on [academy.hsoub]([taha.blog](https://academy.hsoub.com/))
+- 📝 I regularly write articles on [academy hsoub]((https://academy.hsoub.com/))
 
 - 💬 Ask me about **FLutter , LARAVEL**
 
