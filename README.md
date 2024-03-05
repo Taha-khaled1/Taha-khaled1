@@ -7,15 +7,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=taha-khaled1&label=Profile%20views&color=0e75b6&style=flat" alt="taha-khaled1" /> </p>
 
-- 🔭 I’m currently working on [Ecommerce-Multi-Vendor-Application](https://github.com/Taha-khaled1/Ecommerce_Multi-Vendor-Application)
-
-- 🌱 I’m currently learning **LARAVEL Framework**
+- 🔭 I’m currently working on [al7arm project](https://al7rm.com/)
 
 - 👨‍💻 All of my projects are available at [taha.com](taha.com)
 
-- 📝 I regularly write articles on [taha.blog](taha.blog)
+- 📝 I regularly write articles on [academy.hsoub]([taha.blog](https://academy.hsoub.com/))
 
 - 💬 Ask me about **FLutter , LARAVEL**
+
+- 📫 How to reach me **+201113051656**
 
 - 📫 How to reach me **tth31770@gmail.com**
 
