@@ -9,13 +9,13 @@
 
 - 🔭 I’m currently working on [al7arm project](https://al7rm.com/)
 
-- 👨‍💻 All of my projects are available at [taha.com](taha.com)
-
 - 📝 I regularly write articles on [academy hsoub]((https://academy.hsoub.com/))
 
-- 💬 Ask me about **FLutter , LARAVEL**
+- 💬 Ask me about **Backend , Apps**
 
 - 📫 How to reach me **+201113051656**
+
+- 📫 How to reach me **tahakhaled419@gmail.com**
 
 - 📫 How to reach me **tth31770@gmail.com**
 
